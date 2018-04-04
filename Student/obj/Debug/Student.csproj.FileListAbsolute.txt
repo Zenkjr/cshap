@@ -1,0 +1,10 @@
+D:\Project\c#\Student\Student\bin\Debug\Student.exe.config
+D:\Project\c#\Student\Student\bin\Debug\Student.exe
+D:\Project\c#\Student\Student\bin\Debug\Student.pdb
+D:\Project\c#\Student\Student\bin\Debug\MySql.Data.dll
+D:\Project\c#\Student\Student\bin\Debug\MySql.Data.xml
+D:\Project\c#\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+D:\Project\c#\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\Project\c#\Student\Student\obj\Debug\Student.csproj.CopyComplete
+D:\Project\c#\Student\Student\obj\Debug\Student.exe
+D:\Project\c#\Student\Student\obj\Debug\Student.pdb
